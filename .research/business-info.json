@@ -1,0 +1,20 @@
+{
+  "businessName": "Simza Masiza Plumbers",
+  "category": "plumbing",
+  "brandColors": {
+    "primary": "#1E3A5F",
+    "secondary": "#4A90A4",
+    "accent": "#F4A261",
+    "dark": "#0F1F33",
+    "light": "#F0F4F8"
+  },
+  "tagline": "Flowing Excellence",
+  "services": [
+    "Emergency Repairs",
+    "Leak Detection",
+    "Pipe Installation",
+    "Drain Cleaning",
+    "Geyser Services",
+    "Bathroom Renovations"
+  ]
+}
